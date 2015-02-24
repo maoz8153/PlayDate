@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">DatingGame</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Login Screen</string>
+    <string name="username">Username:</string>
+    <string name="password">Password:</string>
+    <string name="Login">Login:</string>
+    <string name="attempts">Attempts Left:</string>
+    <string name="spinner_height">Height</string>
+
+    <string-array name="height_values">
+        <item>5’0”</item>
+        <item>5’1”</item>
+        <item>5’2”</item>
+        <item>5’3”</item>
+        <item>5’4”</item>
+        <item>5’5”</item>
+        <item>5’6”</item>
+        <item>5’7”</item>
+        <item>5’8”</item>
+        <item>5’9”</item>
+        <item>5’10”</item>
+        <item>5’11”</item>
+        <item>6’0”</item>
+        <item>6’1”</item>
+        <item>6’2”</item>
+        <item>6’3”</item>
+        <item>6’4”</item>
+        <item>6’5”</item>
+        <item>6’6”</item>
+        <item>6’7”</item>
+        <item>6’8”</item>
+        <item>6’9”</item>
+        <item>6’10”</item>
+        <item>6’11”</item>
+        <item>7’0”</item>
+        <item>7’1”</item>
+    </string-array>
+
+    <string name="Body">Body</string>
+
+    <string-array name="body_type_values">
+        <item>Rather not say</item>
+        <item>Thin</item>
+        <item>Overweight</item>
+        <item>Thin</item>
+        <item>Skinny</item>
+        <item>Average</item>
+        <item>Fit</item>
+        <item>Athletic</item>
+        <item>Jacked</item>
+        <item>A little extra</item>
+        <item>Curvy</item>
+        <item>Full figured</item>
+        <item>Used up</item>
+    </string-array>
+
+    <string name="Religion">Religion</string>
+
+    <string-array name="religion_values">
+        <item>Judaism</item>
+        <item>Agnosticism</item>
+        <item>Christianity</item>
+        <item>Catholicism</item>
+        <item>Hinduism</item>
+        <item>Islam</item>
+        <item>Buddhism</item>
+        <item>Other</item>
+    </string-array>
+
+    <string name="education_activity">Activity</string>
+
+    <string-array name="activity_values">
+        <item>Graduated from</item>
+        <item>Working on</item>
+        <item>Dropped out of</item>
+    </string-array>
+
+    <string name="education_list">Education</string>
+
+    <string-array name="education_values">
+        <item>high school</item>
+        <item>university</item>
+        <item>masters program</item>
+        <item>law school</item>
+        <item>med school</item>
+        <item>Ph.D program</item>
+    </string-array>
+
+    <string name="etnicity" />
+
+    <string-array name="etnicity_values">
+        <item>Middle Eastern</item>
+        <item>Asian</item>
+        <item>Black</item>
+        <item>Native American</item>
+        <item>Indian</item>
+        <item>Pacific Islander</item>
+        <item>Hispanic / Latin</item>
+        <item>White</item>
+        <item>Other</item>
+    </string-array>
+
+    
+    <string name="language">language</string>
+
+    <string-array name="language_values">
+        <item>English</item>
+        <item>French</item>
+        <item>Arabic</item>
+        <item>Spanish</item>
+        <item>Portuguese</item>
+        <item>Russian</item>
+        <item>Persian</item>
+        <item>Italian</item>
+        <item>German</item>
+        <item>Tamil</item>
+        <item>Dutch</item>
+        <item>Indonesian</item>
+        <item>Hindi</item>
+        <item>Turkish</item>
+        <item>Bengali</item>
+        <item>Romanian</item>
+        <item>Swedish</item>
+        <item>Greek</item>
+        <item>Hebrew</item>
+    </string-array>
+</resources>

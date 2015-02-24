@@ -1,0 +1,819 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<data-set xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<city>
+		<Name>New York</Name>
+	</city>
+	<city>
+		<Name>Los Angeles</Name>
+	</city>
+	<city>
+		<Name>Chicago</Name>
+	</city>
+	<city>
+		<Name>Houston</Name>
+	</city>
+	<city>
+		<Name>Phoenix</Name>
+	</city>
+	<city>
+		<Name>Philadelphia</Name>
+	</city>
+	<city>
+		<Name>San Diego</Name>
+	</city>
+	<city>
+		<Name>San Antonio</Name>
+	</city>
+	<city>
+		<Name>Dallas</Name>
+	</city>
+	<city>
+		<Name>San Jose</Name>
+	</city>
+	<city>
+		<Name>San Francisco</Name>
+	</city>
+	<city>
+		<Name>Indianapolis e[›]</Name>
+	</city>
+	<city>
+		<Name>Austin</Name>
+	</city>
+	<city>
+		<Name>Columbus</Name>
+	</city>
+	<city>
+		<Name>Detroit</Name>
+	</city>
+	<city>
+		<Name>Fort Worth</Name>
+	</city>
+	<city>
+		<Name>Charlotte</Name>
+	</city>
+	<city>
+		<Name>Memphis</Name>
+	</city>
+	<city>
+		<Name>Baltimore f[›]</Name>
+	</city>
+	<city>
+		<Name>El Paso</Name>
+	</city>
+	<city>
+		<Name>Boston</Name>
+	</city>
+	<city>
+		<Name>Milwaukee</Name>
+	</city>
+	<city>
+		<Name>Denver</Name>
+	</city>
+	<city>
+		<Name>Seattle</Name>
+	</city>
+	<city>
+		<Name>Nashville e[›]</Name>
+	</city>
+	<city>
+		<Name>Washington</Name>
+	</city>
+	<city>
+		<Name>Las Vegas</Name>
+	</city>
+	<city>
+		<Name>Portland</Name>
+	</city>
+	<city>
+		<Name>Louisville e[›]</Name>
+	</city>
+	<city>
+		<Name>Oklahoma City</Name>
+	</city>
+	<city>
+		<Name>Tucson</Name>
+	</city>
+	<city>
+		<Name>Atlanta</Name>
+	</city>
+	<city>
+		<Name>Albuquerque</Name>
+	</city>
+	<city>
+		<Name>Fresno</Name>
+	</city>
+	<city>
+		<Name>Sacramento</Name>
+	</city>
+	<city>
+		<Name>Long Beach</Name>
+	</city>
+	<city>
+		<Name>Mesa</Name>
+	</city>
+	<city>
+		<Name>Kansas City</Name>
+	</city>
+	<city>
+		<Name>Omaha</Name>
+	</city>
+	<city>
+		<Name>Cleveland</Name>
+	</city>
+	<city>
+		<Name>Virginia Beach f[›]</Name>
+	</city>
+	<city>
+		<Name>Miami</Name>
+	</city>
+	<city>
+		<Name>Oakland</Name>
+	</city>
+	<city>
+		<Name>Raleigh</Name>
+	</city>
+	<city>
+		<Name>Minneapolis</Name>
+	</city>
+	<city>
+		<Name>Tulsa</Name>
+	</city>
+	<city>
+		<Name>Colorado Springs</Name>
+	</city>
+	<city>
+		<Name>Honolulu b[›]</Name>
+	</city>
+	<city>
+		<Name>Arlington</Name>
+	</city>
+	<city>
+		<Name>Wichita</Name>
+	</city>
+	<city>
+		<Name>St. Louis f[›]</Name>
+	</city>
+	<city>
+		<Name>Tampa</Name>
+	</city>
+	<city>
+		<Name>Santa Ana</Name>
+	</city>
+	<city>
+		<Name>Anaheim</Name>
+	</city>
+	<city>
+		<Name>Cincinnati</Name>
+	</city>
+	<city>
+		<Name>Bakersfield</Name>
+	</city>
+	<city>
+		<Name>Aurora</Name>
+	</city>
+	<city>
+		<Name>New Orleans</Name>
+	</city>
+	<city>
+		<Name>Pittsburgh</Name>
+	</city>
+	<city>
+		<Name>Riverside</Name>
+	</city>
+	<city>
+		<Name>Toledo</Name>
+	</city>
+	<city>
+		<Name>Stockton</Name>
+	</city>
+	<city>
+		<Name>Corpus Christi</Name>
+	</city>
+	<city>
+		<Name>Lexington</Name>
+	</city>
+	<city>
+		<Name>St. Paul</Name>
+	</city>
+	<city>
+		<Name>Anchorage</Name>
+	</city>
+	<city>
+		<Name>Newark</Name>
+	</city>
+	<city>
+		<Name>Buffalo</Name>
+	</city>
+	<city>
+		<Name>Plano</Name>
+	</city>
+	<city>
+		<Name>Henderson</Name>
+	</city>
+	<city>
+		<Name>Lincoln</Name>
+	</city>
+	<city>
+		<Name>Fort Wayne</Name>
+	</city>
+	<city>
+		<Name>Glendale</Name>
+	</city>
+	<city>
+		<Name>Greensboro</Name>
+	</city>
+	<city>
+		<Name>Chandler</Name>
+	</city>
+	<city>
+		<Name>St. Petersburg</Name>
+	</city>
+	<city>
+		<Name>Jersey City</Name>
+	</city>
+	<city>
+		<Name>Scottsdale</Name>
+	</city>
+	<city>
+		<Name>Norfolk f[›]</Name>
+	</city>
+	<city>
+		<Name>Madison</Name>
+	</city>
+	<city>
+		<Name>Orlando</Name>
+	</city>
+	<city>
+		<Name>Birmingham</Name>
+	</city>
+	<city>
+		<Name>Baton Rouge</Name>
+	</city>
+	<city>
+		<Name>Jacksonville</Name>
+	</city>
+	<city>
+		<Name>Laredo</Name>
+	</city>
+	<city>
+		<Name>Lubbock</Name>
+	</city>
+	<city>
+		<Name>Chesapeake f[›]</Name>
+	</city>
+	<city>
+		<Name>Chula Vista</Name>
+	</city>
+	<city>
+		<Name>Garland</Name>
+	</city>
+	<city>
+		<Name>Winston-Salem</Name>
+	</city>
+	<city>
+		<Name>North Las Vegas</Name>
+	</city>
+	<city>
+		<Name>Reno</Name>
+	</city>
+	<city>
+		<Name>Gilbert</Name>
+	</city>
+	<city>
+		<Name>Hialeah</Name>
+	</city>
+	<city>
+		<Name>Arlington c[›]</Name>
+	</city>
+	<city>
+		<Name>Akron</Name>
+	</city>
+	<city>
+		<Name>Irvine</Name>
+	</city>
+	<city>
+		<Name>Rochester</Name>
+	</city>
+	<city>
+		<Name>Boise</Name>
+	</city>
+	<city>
+		<Name>Modesto</Name>
+	</city>
+	<city>
+		<Name>Fremont</Name>
+	</city>
+	<city>
+		<Name>Montgomery</Name>
+	</city>
+	<city>
+		<Name>Spokane</Name>
+	</city>
+	<city>
+		<Name>Richmond f[›]</Name>
+	</city>
+	<city>
+		<Name>Yonkers</Name>
+	</city>
+	<city>
+		<Name>Irving</Name>
+	</city>
+	<city>
+		<Name>Shreveport</Name>
+	</city>
+	<city>
+		<Name>San Bernardino</Name>
+	</city>
+	<city>
+		<Name>Tacoma</Name>
+	</city>
+	<city>
+		<Name>Glendale</Name>
+	</city>
+	<city>
+		<Name>Des Moines</Name>
+	</city>
+	<city>
+		<Name>Augusta e[›]</Name>
+	</city>
+	<city>
+		<Name>Grand Rapids</Name>
+	</city>
+	<city>
+		<Name>Huntington Beach</Name>
+	</city>
+	<city>
+		<Name>Mobile</Name>
+	</city>
+	<city>
+		<Name>Moreno Valley</Name>
+	</city>
+	<city>
+		<Name>Little Rock</Name>
+	</city>
+	<city>
+		<Name>Portland</Name>
+	</city>
+	<city>
+		<Name>Columbus</Name>
+	</city>
+	<city>
+		<Name>Oxnard</Name>
+	</city>
+	<city>
+		<Name>Fontana</Name>
+	</city>
+	<city>
+		<Name>Knoxville</Name>
+	</city>
+	<city>
+		<Name>Fort Lauderdale</Name>
+	</city>
+	<city>
+		<Name>Salt Lake City</Name>
+	</city>
+	<city>
+		<Name>Newport News f[›]</Name>
+	</city>
+	<city>
+		<Name>Huntsville</Name>
+	</city>
+	<city>
+		<Name>Tempe</Name>
+	</city>
+	<city>
+		<Name>Brownsville</Name>
+	</city>
+	<city>
+		<Name>Worcester</Name>
+	</city>
+	<city>
+		<Name>Fayetteville</Name>
+	</city>
+	<city>
+		<Name>Jackson</Name>
+	</city>
+	<city>
+		<Name>Tallahassee</Name>
+	</city>
+	<city>
+		<Name>Aurora</Name>
+	</city>
+	<city>
+		<Name>Ontario</Name>
+	</city>
+	<city>
+		<Name>Providence</Name>
+	</city>
+	<city>
+		<Name>Lewiston</Name>
+	</city>
+	<city>
+		<Name>Rancho Cucamonga</Name>
+	</city>
+	<city>
+		<Name>Chattanooga</Name>
+	</city>
+	<city>
+		<Name>Oceanside</Name>
+	</city>
+	<city>
+		<Name>Santa Clarita</Name>
+	</city>
+	<city>
+		<Name>Bangor</Name>
+	</city>
+	<city>
+		<Name>Vancouver</Name>
+	</city>
+	<city>
+		<Name>Grand Prairie</Name>
+	</city>
+	<city>
+		<Name>Peoria</Name>
+	</city>
+	<city>
+		<Name>Rockford</Name>
+	</city>
+	<city>
+		<Name>Cape Coral</Name>
+	</city>
+	<city>
+		<Name>Springfield</Name>
+	</city>
+	<city>
+		<Name>Santa Rosa</Name>
+	</city>
+	<city>
+		<Name>Sioux Falls</Name>
+	</city>
+	<city>
+		<Name>Port St. Lucie</Name>
+	</city>
+	<city>
+		<Name>Dayton</Name>
+	</city>
+	<city>
+		<Name>Salem</Name>
+	</city>
+	<city>
+		<Name>Brunswick</Name>
+	</city>
+	<city>
+		<Name>Springfield</Name>
+	</city>
+	<city>
+		<Name>Eugene</Name>
+	</city>
+	<city>
+		<Name>Corona</Name>
+	</city>
+	<city>
+		<Name>Pasadena</Name>
+	</city>
+	<city>
+		<Name>Joliet</Name>
+	</city>
+	<city>
+		<Name>Pembroke Pines</Name>
+	</city>
+	<city>
+		<Name>Paterson</Name>
+	</city>
+	<city>
+		<Name>Hampton f[›]</Name>
+	</city>
+	<city>
+		<Name>Lancaster</Name>
+	</city>
+	<city>
+		<Name>Alexandria f[›]</Name>
+	</city>
+	<city>
+		<Name>Salinas</Name>
+	</city>
+	<city>
+		<Name>Palmdale</Name>
+	</city>
+	<city>
+		<Name>Naperville</Name>
+	</city>
+	<city>
+		<Name>Pasadena</Name>
+	</city>
+	<city>
+		<Name>Kansas City</Name>
+	</city>
+	<city>
+		<Name>Hayward</Name>
+	</city>
+	<city>
+		<Name>Hollywood</Name>
+	</city>
+	<city>
+		<Name>Lakewood</Name>
+	</city>
+	<city>
+		<Name>Torrance</Name>
+	</city>
+	<city>
+		<Name>Syracuse</Name>
+	</city>
+	<city>
+		<Name>Escondido</Name>
+	</city>
+	<city>
+		<Name>Fort Collins</Name>
+	</city>
+	<city>
+		<Name>Bridgeport</Name>
+	</city>
+	<city>
+		<Name>Orange</Name>
+	</city>
+	<city>
+		<Name>Warren</Name>
+	</city>
+	<city>
+		<Name>Elk Grove</Name>
+	</city>
+	<city>
+		<Name>Savannah</Name>
+	</city>
+	<city>
+		<Name>Mesquite</Name>
+	</city>
+	<city>
+		<Name>Sunnyvale</Name>
+	</city>
+	<city>
+		<Name>Fullerton</Name>
+	</city>
+	<city>
+		<Name>McAllen</Name>
+	</city>
+	<city>
+		<Name>Cary</Name>
+	</city>
+	<city>
+		<Name>Cedar Rapids</Name>
+	</city>
+	<city>
+		<Name>Sterling Heights</Name>
+	</city>
+	<city>
+		<Name>Columbia</Name>
+	</city>
+	<city>
+		<Name>Coral Springs</Name>
+	</city>
+	<city>
+		<Name>Carrollton</Name>
+	</city>
+	<city>
+		<Name>Elizabeth</Name>
+	</city>
+	<city>
+		<Name>Hartford</Name>
+	</city>
+	<city>
+		<Name>Waco</Name>
+	</city>
+	<city>
+		<Name>Bellevue</Name>
+	</city>
+	<city>
+		<Name>New Haven</Name>
+	</city>
+	<city>
+		<Name>West Valley City</Name>
+	</city>
+	<city>
+		<Name>Topeka</Name>
+	</city>
+	<city>
+		<Name>Thousand Oaks</Name>
+	</city>
+	<city>
+		<Name>El Monte</Name>
+	</city>
+	<city>
+		<Name>McKinney</Name>
+	</city>
+	<city>
+		<Name>Concord</Name>
+	</city>
+	<city>
+		<Name>Visalia</Name>
+	</city>
+	<city>
+		<Name>Simi Valley</Name>
+	</city>
+	<city>
+		<Name>Olathe</Name>
+	</city>
+	<city>
+		<Name>Clarksville</Name>
+	</city>
+	<city>
+		<Name>Denton</Name>
+	</city>
+	<city>
+		<Name>Stamford</Name>
+	</city>
+	<city>
+		<Name>Provo</Name>
+	</city>
+	<city>
+		<Name>Springfield</Name>
+	</city>
+	<city>
+		<Name>Killeen</Name>
+	</city>
+	<city>
+		<Name>Abilene</Name>
+	</city>
+	<city>
+		<Name>Evansville</Name>
+	</city>
+	<city>
+		<Name>Gainesville</Name>
+	</city>
+	<city>
+		<Name>Vallejo</Name>
+	</city>
+	<city>
+		<Name>Ann Arbor</Name>
+	</city>
+	<city>
+		<Name>Peoria</Name>
+	</city>
+	<city>
+		<Name>Lansing</Name>
+	</city>
+	<city>
+		<Name>Lafayette</Name>
+	</city>
+	<city>
+		<Name>Thornton</Name>
+	</city>
+	<city>
+		<Name>Athens e[›]</Name>
+	</city>
+	<city>
+		<Name>Flint</Name>
+	</city>
+	<city>
+		<Name>Inglewood</Name>
+	</city>
+	<city>
+		<Name>Roseville</Name>
+	</city>
+	<city>
+		<Name>Charleston</Name>
+	</city>
+	<city>
+		<Name>Beaumont</Name>
+	</city>
+	<city>
+		<Name>Independence</Name>
+	</city>
+	<city>
+		<Name>Victorville</Name>
+	</city>
+	<city>
+		<Name>Santa Clara</Name>
+	</city>
+	<city>
+		<Name>Costa Mesa</Name>
+	</city>
+	<city>
+		<Name>Miami Gardens</Name>
+	</city>
+	<city>
+		<Name>Manchester</Name>
+	</city>
+	<city>
+		<Name>Miramar</Name>
+	</city>
+	<city>
+		<Name>Downey</Name>
+	</city>
+	<city>
+		<Name>Arvada</Name>
+	</city>
+	<city>
+		<Name>Allentown</Name>
+	</city>
+	<city>
+		<Name>Westminster</Name>
+	</city>
+	<city>
+		<Name>Waterbury</Name>
+	</city>
+	<city>
+		<Name>Norman</Name>
+	</city>
+	<city>
+		<Name>Midland</Name>
+	</city>
+	<city>
+		<Name>Elgin</Name>
+	</city>
+	<city>
+		<Name>West Covina</Name>
+	</city>
+	<city>
+		<Name>Clearwater</Name>
+	</city>
+	<city>
+		<Name>Cambridge</Name>
+	</city>
+	<city>
+		<Name>Fargo</Name>
+	</city>
+	<city>
+		<Name>West Jordan</Name>
+	</city>
+	<city>
+		<Name>Round Rock</Name>
+	</city>
+	<city>
+		<Name>Billings</Name>
+	</city>
+	<city>
+		<Name>Erie</Name>
+	</city>
+	<city>
+		<Name>South Bend</Name>
+	</city>
+	<city>
+		<Name>San Buenaventura (Ventura)</Name>
+	</city>
+	<city>
+		<Name>Fairfield</Name>
+	</city>
+	<city>
+		<Name>Lowell</Name>
+	</city>
+	<city>
+		<Name>Norwalk</Name>
+	</city>
+	<city>
+		<Name>Burbank</Name>
+	</city>
+	<city>
+		<Name>Richmond</Name>
+	</city>
+	<city>
+		<Name>Pompano Beach</Name>
+	</city>
+	<city>
+		<Name>High Point</Name>
+	</city>
+	<city>
+		<Name>Murfreesboro</Name>
+	</city>
+	<city>
+		<Name>Lewisville</Name>
+	</city>
+	<city>
+		<Name>Richardson</Name>
+	</city>
+	<city>
+		<Name>Daly City</Name>
+	</city>
+	<city>
+		<Name>Berkeley</Name>
+	</city>
+	<city>
+		<Name>Gresham</Name>
+	</city>
+	<city>
+		<Name>Wichita Falls</Name>
+	</city>
+	<city>
+		<Name>Green Bay</Name>
+	</city>
+	<city>
+		<Name>Davenport</Name>
+	</city>
+	<city>
+		<Name>Palm Bay</Name>
+	</city>
+	<city>
+		<Name>Columbia</Name>
+	</city>
+	<city>
+		<Name>Portsmouth f[›]</Name>
+	</city>
+	<city>
+		<Name>Rochester</Name>
+	</city>
+	<city>
+		<Name>Antioch</Name>
+	</city>
+	<city>
+		<Name>Wilmington</Name>
+	</city>
+</data-set>
